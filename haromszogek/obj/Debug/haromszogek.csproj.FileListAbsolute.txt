@@ -1,0 +1,9 @@
+C:\Users\OKJT313\Desktop\Kirajnok\haromszogek\bin\Debug\haromszogek.exe.config
+C:\Users\OKJT313\Desktop\Kirajnok\haromszogek\bin\Debug\haromszogek.exe
+C:\Users\OKJT313\Desktop\Kirajnok\haromszogek\bin\Debug\haromszogek.pdb
+C:\Users\OKJT313\Desktop\Kirajnok\haromszogek\obj\Debug\haromszogek.csprojResolveAssemblyReference.cache
+C:\Users\OKJT313\Desktop\Kirajnok\haromszogek\obj\Debug\haromszogek.Form1.resources
+C:\Users\OKJT313\Desktop\Kirajnok\haromszogek\obj\Debug\haromszogek.Properties.Resources.resources
+C:\Users\OKJT313\Desktop\Kirajnok\haromszogek\obj\Debug\haromszogek.csproj.GenerateResource.Cache
+C:\Users\OKJT313\Desktop\Kirajnok\haromszogek\obj\Debug\haromszogek.exe
+C:\Users\OKJT313\Desktop\Kirajnok\haromszogek\obj\Debug\haromszogek.pdb

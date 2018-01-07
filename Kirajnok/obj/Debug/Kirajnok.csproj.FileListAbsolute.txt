@@ -1,0 +1,6 @@
+C:\Users\OKJT313\Desktop\Kirajnok\Kirajnok\bin\Debug\Kirajnok.exe.config
+C:\Users\OKJT313\Desktop\Kirajnok\Kirajnok\bin\Debug\Kirajnok.exe
+C:\Users\OKJT313\Desktop\Kirajnok\Kirajnok\bin\Debug\Kirajnok.pdb
+C:\Users\OKJT313\Desktop\Kirajnok\Kirajnok\obj\Debug\Kirajnok.csprojResolveAssemblyReference.cache
+C:\Users\OKJT313\Desktop\Kirajnok\Kirajnok\obj\Debug\Kirajnok.exe
+C:\Users\OKJT313\Desktop\Kirajnok\Kirajnok\obj\Debug\Kirajnok.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kirajnok", "Kirajnok\Kirajnok.csproj", "{31FC35DB-BAE2-4D0A-BBE4-38E9227F14DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "haromszogek", "haromszogek\haromszogek.csproj", "{ECD574C0-0C01-402C-9ABC-8E1CF4BEDCB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menetlevelekprog", "..\Menetlevelekprog\Menetlevelekprog.csproj", "{F5610C5A-9151-4D53-8DB2-0E9B2880CECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FC35DB-BAE2-4D0A-BBE4-38E9227F14DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FC35DB-BAE2-4D0A-BBE4-38E9227F14DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FC35DB-BAE2-4D0A-BBE4-38E9227F14DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FC35DB-BAE2-4D0A-BBE4-38E9227F14DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD574C0-0C01-402C-9ABC-8E1CF4BEDCB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD574C0-0C01-402C-9ABC-8E1CF4BEDCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD574C0-0C01-402C-9ABC-8E1CF4BEDCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD574C0-0C01-402C-9ABC-8E1CF4BEDCB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5610C5A-9151-4D53-8DB2-0E9B2880CECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5610C5A-9151-4D53-8DB2-0E9B2880CECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5610C5A-9151-4D53-8DB2-0E9B2880CECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5610C5A-9151-4D53-8DB2-0E9B2880CECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
