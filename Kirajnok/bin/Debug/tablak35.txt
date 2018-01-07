@@ -1,8 +1,8 @@
-K**K*K**
-K***KKKK
-*KKKK***
-K*K*K*K*
-*K*KKK**
-*KKK**KK
-*K*KK**K
+KKK**K**
+**KK**K*
+*K**KK**
+***KKKKK
+KK**KK*K
+KKK**K*K
 KKK**KKK
+KK***K*K

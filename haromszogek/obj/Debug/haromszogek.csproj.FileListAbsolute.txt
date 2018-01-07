@@ -7,3 +7,13 @@ C:\Users\OKJT313\Desktop\Kirajnok\haromszogek\obj\Debug\haromszogek.Properties.R
 C:\Users\OKJT313\Desktop\Kirajnok\haromszogek\obj\Debug\haromszogek.csproj.GenerateResource.Cache
 C:\Users\OKJT313\Desktop\Kirajnok\haromszogek\obj\Debug\haromszogek.exe
 C:\Users\OKJT313\Desktop\Kirajnok\haromszogek\obj\Debug\haromszogek.pdb
+E:\Github\CSharpVizsgaFeladatok\haromszogek\bin\Debug\haromszogek.exe.config
+E:\Github\CSharpVizsgaFeladatok\haromszogek\bin\Debug\haromszogek.exe
+E:\Github\CSharpVizsgaFeladatok\haromszogek\bin\Debug\haromszogek.pdb
+E:\Github\CSharpVizsgaFeladatok\haromszogek\obj\Debug\haromszogek.csprojResolveAssemblyReference.cache
+E:\Github\CSharpVizsgaFeladatok\haromszogek\obj\Debug\haromszogek.Form1.resources
+E:\Github\CSharpVizsgaFeladatok\haromszogek\obj\Debug\haromszogek.Properties.Resources.resources
+E:\Github\CSharpVizsgaFeladatok\haromszogek\obj\Debug\haromszogek.csproj.GenerateResource.Cache
+E:\Github\CSharpVizsgaFeladatok\haromszogek\obj\Debug\haromszogek.csproj.CoreCompileInputs.cache
+E:\Github\CSharpVizsgaFeladatok\haromszogek\obj\Debug\haromszogek.exe
+E:\Github\CSharpVizsgaFeladatok\haromszogek\obj\Debug\haromszogek.pdb

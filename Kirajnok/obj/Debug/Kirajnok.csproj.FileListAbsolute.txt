@@ -4,3 +4,10 @@ C:\Users\OKJT313\Desktop\Kirajnok\Kirajnok\bin\Debug\Kirajnok.pdb
 C:\Users\OKJT313\Desktop\Kirajnok\Kirajnok\obj\Debug\Kirajnok.csprojResolveAssemblyReference.cache
 C:\Users\OKJT313\Desktop\Kirajnok\Kirajnok\obj\Debug\Kirajnok.exe
 C:\Users\OKJT313\Desktop\Kirajnok\Kirajnok\obj\Debug\Kirajnok.pdb
+E:\Github\CSharpVizsgaFeladatok\Kirajnok\bin\Debug\Kirajnok.exe.config
+E:\Github\CSharpVizsgaFeladatok\Kirajnok\bin\Debug\Kirajnok.exe
+E:\Github\CSharpVizsgaFeladatok\Kirajnok\bin\Debug\Kirajnok.pdb
+E:\Github\CSharpVizsgaFeladatok\Kirajnok\obj\Debug\Kirajnok.csprojResolveAssemblyReference.cache
+E:\Github\CSharpVizsgaFeladatok\Kirajnok\obj\Debug\Kirajnok.csproj.CoreCompileInputs.cache
+E:\Github\CSharpVizsgaFeladatok\Kirajnok\obj\Debug\Kirajnok.exe
+E:\Github\CSharpVizsgaFeladatok\Kirajnok\obj\Debug\Kirajnok.pdb

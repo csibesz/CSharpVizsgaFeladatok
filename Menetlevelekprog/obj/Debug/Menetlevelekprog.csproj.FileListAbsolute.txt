@@ -1,0 +1,9 @@
+E:\Github\CSharpVizsgaFeladatok\Menetlevelekprog\bin\Debug\Menetlevelekprog.exe.config
+E:\Github\CSharpVizsgaFeladatok\Menetlevelekprog\bin\Debug\Menetlevelekprog.exe
+E:\Github\CSharpVizsgaFeladatok\Menetlevelekprog\bin\Debug\Menetlevelekprog.pdb
+E:\Github\CSharpVizsgaFeladatok\Menetlevelekprog\obj\Debug\Menetlevelekprog.Form1.resources
+E:\Github\CSharpVizsgaFeladatok\Menetlevelekprog\obj\Debug\Menetlevelekprog.Properties.Resources.resources
+E:\Github\CSharpVizsgaFeladatok\Menetlevelekprog\obj\Debug\Menetlevelekprog.csproj.GenerateResource.Cache
+E:\Github\CSharpVizsgaFeladatok\Menetlevelekprog\obj\Debug\Menetlevelekprog.csproj.CoreCompileInputs.cache
+E:\Github\CSharpVizsgaFeladatok\Menetlevelekprog\obj\Debug\Menetlevelekprog.exe
+E:\Github\CSharpVizsgaFeladatok\Menetlevelekprog\obj\Debug\Menetlevelekprog.pdb
